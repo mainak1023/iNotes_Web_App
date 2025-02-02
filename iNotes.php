@@ -397,7 +397,7 @@ async function loadNotes() {
                 `;
             });
             
-            // Reattach event listeners
+            // Re-attach event listeners
             attachEventListeners();
         } else {
             showAlert('error', data.message);

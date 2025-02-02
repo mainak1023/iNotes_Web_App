@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 $host = 'localhost';
-$dbname = 'practice';  // Your database name
-$username = 'root';    // Your database username
-$password = '';        // Your database password
+$dbname = 'practice';
+$username = 'root';
+$password = '';
 
 try {
     // Create PDO connection
