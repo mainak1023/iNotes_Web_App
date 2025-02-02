@@ -22,7 +22,7 @@
             padding: 1rem 2rem;
             color: white;
             display: flex;
-            justify-content: space-between;
+            justify-content: center;
             align-items: center;
         }
 
@@ -251,7 +251,7 @@
             <i class="fas fa-sticky-note"></i>
             iNotes
         </div>
-        <input type="text" class="search-bar" placeholder="Search notes...">
+        <!-- <input type="text" class="search-bar" placeholder="Search notes..."> -->
     </nav>
 
     <div class="container">
